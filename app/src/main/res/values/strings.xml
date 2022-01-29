@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Deteksi Retak Beton V1</string>
+    <string-array name="tflite_list">
+        <item>MobileNet</item>
+        <item>ResNet50</item>
+        <item>InceptionV3</item>
+    </string-array>
+</resources>
